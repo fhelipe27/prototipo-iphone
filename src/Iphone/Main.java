@@ -43,7 +43,7 @@ public class Main {
         telefone.makeCall("987654321");
 
         // Receber uma chamada
-        telefone.receiveCall("555555555");
+        telefone.receiveCall("777777777");
 
         // Encerrar a chamada
         telefone.endCall();
